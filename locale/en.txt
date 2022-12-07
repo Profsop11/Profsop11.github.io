@@ -1,117 +1,51 @@
 #: locale=en
 
-## Acción
+## Hotspot
 
-### URL
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+### Tooltip
+HotspotMapOverlayArea_DA9F46B3_CAD1_8949_41E4_E14168FE021B.toolTip = Cancha Principal
 
 ## Media
 
-### Título
-panorama_68789B1B_7C31_20A1_41C8_F35034D3C595.label = Auditorio Antonio
-panorama_6A23A3D4_7C32_E7A7_41D0_4D4BF3A9B40B.label = Auditorio Buenaventura
-panorama_69C95342_7C31_E0A3_41AD_AB2021EC52FC.label = Auditorio Enrique
-panorama_086475E0_1A34_5E4F_41B1_B6186DC49DF5.label = Auditorio Fundadores
-panorama_08643B5C_1A35_CA77_41AC_4E0107A4A84B.label = Auditorio Fundadores FRONT
-panorama_086621E2_1A34_7653_41B4_07FF1D6EC2C2.label = Auditorio Guillermo Leon Valencia
-panorama_8DBB341D_865F_C350_41B9_AC7AE8D74F72.label = Auditorio Mayor Abajo
-panorama_898A6B11_865D_C550_41D8_3FD4C8EEDFC8.label = Auditorio Mayor Arriba
-panorama_8815C1B2_8665_4550_41C6_AC4D125CD621.label = Auditorio Menor adelante
-panorama_964F08CA_8667_C330_41B4_1CAAE9B016C6.label = Auditorio Menor atras
-panorama_6B7BE87D_7BAD_8D2D_41D5_6D4C22246723.label = AuditorioJordanSajonia
-panorama_54B22252_59B1_0FEB_41C2_3B648EEF0A22.label = AuditorioSanzTena
-panorama_0682733A_0A51_0E70_419C_55C0682CE8B6.label = Aula 103
-panorama_0F1C9E1B_1A0D_CDF1_41B9_D8D3CC8D859A.label = Aula Magna
-panorama_6E5BC1C0_7C31_239F_41D3_8A1257D34B2E.label = Sala de Exposiciones
-panorama_89E2A0CC_86A3_4330_41DC_9D81347497A8.label = Sala de Prensa
-panorama_011D9DEA_0A51_7A10_4195_88345964C0F5.label = Sala de proyeccion
-panorama_0160E579_0A51_0AF0_419B_FC8F577AE730.label = Sala independencia
-panorama_0F657C33_1A34_4E31_41B5_3BB616384C44.label = Salon de clase
-
-## Skin
-
-### Botón
-Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = Campus
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = Edificio Doctor Angelico
-Button_37E0838B_21DE_77F6_41B3_609AB182F924.label = Edificio El Aquinate
-Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
-Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
-Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
-Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = Sede Principal
-Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
-Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
-
-### Etiqueta
-Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+### Floorplan
 
 ### Imágen
-Image_0355A860_179E_7F32_41B2_86606A38935A.url = skin/Image_0355A860_179E_7F32_41B2_86606A38935A_en.png
-Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
-Image_07476D76_14EE_711E_41A9_079A395F3EC3.url = skin/Image_07476D76_14EE_711E_41A9_079A395F3EC3_en.png
-Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
-Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
-Image_3D2D5158_33F6_A796_41C7_8CE1ECA638DC.url = skin/Image_3D2D5158_33F6_A796_41C7_8CE1ECA638DC_en.png
-Image_3D2D9157_33F6_A79A_41C9_C8A7BAF63A4C.url = skin/Image_3D2D9157_33F6_A79A_41C9_C8A7BAF63A4C_en.png
-Image_3D2DB157_33F6_A79A_41AA_60BB90479B73.url = skin/Image_3D2DB157_33F6_A79A_41AA_60BB90479B73_en.png
-Image_3D6E51FD_33F3_668E_41AB_46446D07D2BB.url = skin/Image_3D6E51FD_33F3_668E_41AB_46446D07D2BB_en.png
-Image_3DFC74CD_33F3_6E8E_41C7_583AA0DFB034.url = skin/Image_3DFC74CD_33F3_6E8E_41C7_583AA0DFB034_en.png
-Image_3E2A8D9D_33F3_9E8E_41A7_AE4654164AAA.url = skin/Image_3E2A8D9D_33F3_9E8E_41A7_AE4654164AAA_en.png
-Image_3EAE72EA_2E49_4060_41A1_6670D53E5FA3.url = skin/Image_3EAE72EA_2E49_4060_41A1_6670D53E5FA3_en.png
-Image_58A9B6ED_7C71_2161_41D3_81DF616106D5.url = skin/Image_58A9B6ED_7C71_2161_41D3_81DF616106D5_en.png
-Image_5957D8C9_7C51_E1A1_41C6_997732C04631.url = skin/Image_5957D8C9_7C51_E1A1_41C6_997732C04631_en.png
-Image_595F82DD_7C71_21A1_41D0_9254C425C7E1.url = skin/Image_595F82DD_7C71_21A1_41D0_9254C425C7E1_en.png
-Image_59BB4546_7C76_E0A3_418E_A0756D8B4D5D.url = skin/Image_59BB4546_7C76_E0A3_418E_A0756D8B4D5D_en.png
-Image_6525E64F_689B_A8A3_41C5_AE189DAA49C6.url = skin/Image_6525E64F_689B_A8A3_41C5_AE189DAA49C6_en.png
-Image_6548870F_68A4_A8A3_41D6_9D00CF391040.url = skin/Image_6548870F_68A4_A8A3_41D6_9D00CF391040_en.png
-Image_656E0B3F_68A7_D8E3_419A_A7BF142E20CF.url = skin/Image_656E0B3F_68A7_D8E3_419A_A7BF142E20CF_en.png
-Image_65739447_68A5_68A3_41D7_634893A36827.url = skin/Image_65739447_68A5_68A3_41D7_634893A36827_en.png
-Image_657840E7_68A4_E963_41B5_936A818266F6.url = skin/Image_657840E7_68A4_E963_41B5_936A818266F6_en.png
-Image_657B6420_68A7_689D_41AC_B7404092F980.url = skin/Image_657B6420_68A7_689D_41AC_B7404092F980_en.png
-Image_668077BE_689F_57E5_41BA_EBE68DE7D3D1.url = skin/Image_668077BE_689F_57E5_41BA_EBE68DE7D3D1_en.png
-Image_66A12B0F_68A5_B8A3_41CB_44EC91FF30D4.url = skin/Image_66A12B0F_68A5_B8A3_41CB_44EC91FF30D4_en.png
-Image_66BF70C6_689D_E9A5_41D3_B3264D7DC535.url = skin/Image_66BF70C6_689D_E9A5_41D3_B3264D7DC535_en.png
-Image_69C18FF2_7BDE_8337_41C6_8BC01E4CE774.url = skin/Image_69C18FF2_7BDE_8337_41C6_8BC01E4CE774_en.png
-Image_69FBE802_7BDE_8CD7_4190_4F6E61026799.url = skin/Image_69FBE802_7BDE_8CD7_4190_4F6E61026799_en.png
-Image_6A8A0589_7BEE_87D5_41B5_E890FDF2B952.url = skin/Image_6A8A0589_7BEE_87D5_41B5_E890FDF2B952_en.png
-Image_6E045C3F_7BAA_852D_41DB_AEC96BDFC9D1.url = skin/Image_6E045C3F_7BAA_852D_41DB_AEC96BDFC9D1_en.png
-Image_6E07BC2E_7BAA_852F_41DD_B0307760590A.url = skin/Image_6E07BC2E_7BAA_852F_41DD_B0307760590A_en.png
-Image_72910579_7C31_2361_41D3_088C219FD741.url = skin/Image_72910579_7C31_2361_41D3_088C219FD741_en.png
-Image_7294F583_7C31_23A1_41B1_26CB377DDBDE.url = skin/Image_7294F583_7C31_23A1_41B1_26CB377DDBDE_en.png
-Image_7296A57C_7C31_2367_41D7_3448264FCFFA.url = skin/Image_7296A57C_7C31_2367_41D7_3448264FCFFA_en.png
-Image_7296B580_7C31_239F_41CF_D30798B12EE0.url = skin/Image_7296B580_7C31_239F_41CF_D30798B12EE0_en.png
-Image_7297158A_7C31_23A3_41D2_D7B60B23D959.url = skin/Image_7297158A_7C31_23A3_41D2_D7B60B23D959_en.png
-Image_7297658D_7C31_23A1_41CD_F844CFB10E6F.url = skin/Image_7297658D_7C31_23A1_41CD_F844CFB10E6F_en.png
-Image_72979587_7C31_23A1_41DE_806E333D81DB.url = skin/Image_72979587_7C31_23A1_41DE_806E333D81DB_en.png
-Image_72AB4569_7C31_2361_41DA_20830003C3B6.url = skin/Image_72AB4569_7C31_2361_41DA_20830003C3B6_en.png
-Image_72AE9571_7C31_2361_41D9_D9A5A7C4FEFC.url = skin/Image_72AE9571_7C31_2361_41D9_D9A5A7C4FEFC_en.png
-Image_95A1477E_86A5_4DD0_41C2_F1090E393D11.url = skin/Image_95A1477E_86A5_4DD0_41C2_F1090E393D11_en.png
-Image_95A37783_86A5_4D30_41DC_65B57C29D90B.url = skin/Image_95A37783_86A5_4D30_41DC_65B57C29D90B_en.png
-Image_95A647A1_86A5_4D70_41B1_DC627FF81532.url = skin/Image_95A647A1_86A5_4D70_41B1_DC627FF81532_en.png
-Image_95A6F79D_86A5_4D50_41DA_F83519CB88E9.url = skin/Image_95A6F79D_86A5_4D50_41DA_F83519CB88E9_en.png
-Image_95A6F7A5_86A5_4D70_41D1_B22A9E6A2833.url = skin/Image_95A6F7A5_86A5_4D70_41D1_B22A9E6A2833_en.png
-Image_95A7A78B_86A5_4D30_419B_D9CD302F1951.url = skin/Image_95A7A78B_86A5_4D30_419B_D9CD302F1951_en.png
-Image_95A7C78F_86A5_4D30_41DB_8BC6A24437B3.url = skin/Image_95A7C78F_86A5_4D30_41DB_8BC6A24437B3_en.png
-Image_95A7D794_86A5_4D50_41D4_10F33D4B3563.url = skin/Image_95A7D794_86A5_4D50_41D4_10F33D4B3563_en.png
-Image_95B95798_86A5_4D50_41B5_B1BC77E57D5B.url = skin/Image_95B95798_86A5_4D50_41B5_B1BC77E57D5B_en.png
-Image_9CAF24CD_8737_986A_41CF_81F1B1D44A1C.url = skin/Image_9CAF24CD_8737_986A_41CF_81F1B1D44A1C_en.png
-Image_9D6C2D64_8737_A85A_41DE_9D3BA8EA93FD.url = skin/Image_9D6C2D64_8737_A85A_41DE_9D3BA8EA93FD_en.png
-Image_9DAAA9CA_8737_A86E_41CE_56490EEA29F3.url = skin/Image_9DAAA9CA_8737_A86E_41CE_56490EEA29F3_en.png
+imlevel_E152D826_ED07_8A3D_41C3_3CF87E6E1A5E.url = media/map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C_en_0.png
+imlevel_E1520826_ED07_8A3D_41D4_0B7D3C3A61E1.url = media/map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C_en_1.png
+imlevel_E1521827_ED07_8A3B_41E0_FB93C5A80BC6.url = media/map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C_en_2.png
+imlevel_E1526827_ED07_8A3B_41B1_DE83FB07E854.url = media/map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C_en_3.png
+imlevel_E1527827_ED07_8A3B_41CC_744BA5717BF8.url = media/map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C_en_4.png
 
-### Texto Multilínea
-HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
-HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.259999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
-HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV></div>
-HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
-HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.730000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.730000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.229999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+### Título
+panorama_E9B9A9E6_E3D6_05F4_41D1_4888A3DBE319.label = 10-Coliseo
+panorama_E293F239_E815_E0F2_41E4_A8F93882BC2D.label = 2-Tricancha2
+panorama_E9B9AC2A_E3D6_027C_41D9_9D6E037C116C.label = 21-Laboratorios
+panorama_E293E629_E815_2092_41D0_C61485550197.label = 26-Futbol 11
+panorama_E9B9D849_E3D6_023C_41E4_35DD29F39769.label = 27-Cancha de Micro
+panorama_E29346C7_E815_619E_41E9_A17E34E4531D.label = 28-Tricancha Basquetbal
+panorama_E9B96447_E3D6_0234_41D8_3C80096B04D2.label = 29-Restaurante
+panorama_E897AED7_E3DA_7FD4_4190_DCF285461024.label = 3-Plaza Central
+panorama_E9B92F4C_E3D6_3E34_41E5_A70EADDC7342.label = 30-Mesas de Almuerzo
+panorama_E9BAB946_E3D6_0234_41E6_3D45106C24AD.label = 31-Pista de Carreras
+panorama_E292B0BE_E817_21EE_41D6_BAA4A915DC3B.label = 32-Cancha de Futbol Tenis
+panorama_E2929B79_E814_E772_41D0_6EB7C1153D25.label = 33-Cancha de Tenis 3
+panorama_E9B9046C_E3D6_02F4_41E6_F713ED45275C.label = 34-Caminito Arboles Entrada
+panorama_E9BAF9E7_E3D6_05F4_41D3_84483AC9BA18.label = 35-Plaza a Esperanza
+panorama_EF9ECE08_E481_AE09_41BC_64C7A91A1459.label = 36-Puente a Esperanza
+panorama_E9B8E5DF_E3D6_0DD4_41DB_A51EF5ABA014.label = 37-Capilla Costado
+panorama_E9B19FE5_E3DA_3DF4_41D2_AF62BE8B7721.label = 4-Cafeteria
+panorama_E9BB01D6_E3D6_05D4_41E6_857677BC16C8.label = 41-Caminos Tricancha
+panorama_EFF8C68D_E481_9E0B_41D1_D51E7786C1D3.label = 42-Container-Parada de bus
+panorama_EF9FD8CF_E481_9207_41DD_C23A791589E7.label = 43-Intermedio Basket-Restaurante
+panorama_E2930A31_E817_20F2_41EA_EE988F37A822.label = 5-Basquetball
+panorama_E2929589_E817_6392_41E8_D5D77F643BE4.label = 6-Tennis
+panorama_E9B62A97_E3DA_0654_41E6_DF37F2E845FA.label = 7-Muro de Escalar
+panorama_E293B929_E815_2092_41D5_7F48C2BA7B0C.label = 9-Voleyball
+map_D5D72DEC_C4AA_0D33_41E1_FBB2B7F46D5C.label = Satelital_FINAL_90%
 
 ## Tour
 
 ### Descripción
 
 ### Título
-tour.name = Sin Título 2
+tour.name = Sin Título 3
